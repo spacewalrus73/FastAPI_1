@@ -1,7 +1,7 @@
 # FastAPI_1
 
 Небольшое тестовое приложение на FastAPI. Можно добавлять таски, которые содержат поля name и description.   
-Никакие шаблоны не подключены, поэтому работать через `/docs`.
+Никакие шаблоны не подключены, поэтому работать через `/docs`. База - `aiosqlite`.
 
 ## *Used technologies*
 ![](https://img.shields.io/badge/Python-v3.10.6-yellow?style=plastic&logo=python)
